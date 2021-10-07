@@ -58,6 +58,13 @@ const question2 = "Opdracht 4: object met daarin jouw eigen naam en achternaam t
 console.log(question2)
 console.log(getDetails())
 
+// function getDetails(firstName, lastName) {
+// return firstName+ " " +lastName
+// }
+//
+// console.log("Andrew","Corsen")
+// console.log(getDetails("Andrew","Corsen"))
+
 
 // Vragen of het handiger is om parameters te gebruiken in de function, firstname/lastname of heb ik het zo juist opgelost?
 // Waarom krijg ik de object niet te zien als ik het combineer met de vraag in de console log?
